@@ -2,10 +2,7 @@
 #include <sp_stm32_clock.h>
 
 
-/*Macro to Enable the Peripheral Clock
- *
- *
- */
+
 
 
 
