@@ -2,7 +2,7 @@
 
 /*
  * Move the data in corresponding Register
- * MSB 8 bit Register Address and LSB 8 bit Data--
+ * MSB 8 bit Register Address and LSB 8 bit Data
  *
  */
 void Set_Register(int addr, char data) {
