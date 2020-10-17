@@ -1,0 +1,4 @@
+stm32_uart.c:12:6:USART_Config	16	static
+stm32_uart.c:18:6:USART_Enable	16	static
+stm32_uart.c:25:6:USART_SendChar	16	static
+stm32_uart.c:31:6:USART_SendString	16	static

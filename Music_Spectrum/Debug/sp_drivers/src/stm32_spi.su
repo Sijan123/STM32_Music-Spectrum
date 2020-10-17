@@ -1,0 +1,5 @@
+stm32_spi.c:4:6:SPI_Config	16	static
+stm32_spi.c:14:6:SPI_Enable	16	static
+stm32_spi.c:19:6:SPI_TxBufferEmpty	16	static
+stm32_spi.c:25:6:SPI_NotBusy	16	static
+stm32_spi.c:31:6:SPI_Senddata	16	static

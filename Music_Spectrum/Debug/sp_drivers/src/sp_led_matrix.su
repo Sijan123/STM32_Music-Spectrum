@@ -1,0 +1,2 @@
+sp_led_matrix.c:6:6:Set_Register	16	static
+sp_led_matrix.c:20:6:Draw_Spectrum	24	static
