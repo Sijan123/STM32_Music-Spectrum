@@ -2,7 +2,7 @@
  * stm32_uart.c
  *
  *  Created on: 7 Oct 2020
- *      Author: sijan
+ *      Author: sijan pahari
  */
 
 #include <sp_stm32_uart.h>
